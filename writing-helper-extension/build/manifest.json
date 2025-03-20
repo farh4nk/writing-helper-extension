@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Writing Helper Extension",
+    "version": "1.0.0",
+    "description": "A basic Chrome extension built with React, that helps users when writing by providing synonyms and definitions of words upon user request.",
+     "action": {
+       "default_popup": "build/index.html"
+     },
+     
+     "permissions": []
+  }
